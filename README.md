@@ -18,5 +18,5 @@
  </div>
  
  <div><br>
-  <h5>📘 Estudando JavaScript<h5>
+  <h5>👨‍💻 Estudando JavaScript<h5>
  </div>
