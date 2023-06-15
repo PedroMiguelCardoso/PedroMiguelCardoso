@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/PedroMiguelCardoso">
-  <img height="200em"src="https://github-readme-stats.vercel.app/api?username=PedroMiguelCardoso&show_icons=true&theme=gruvbox_light"/>
+  <img height="200em"src="https://github-readme-stats.vercel.app/api?username=PedroMiguelCardoso&show_icons=true&theme=omni"/>
  
 </div>
   
