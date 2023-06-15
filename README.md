@@ -6,7 +6,9 @@
  
 </div>
   
-  <br>
+ <div><br>
+  <h5>👨‍💻 Estudando JavaScript<h5>
+ </div>
  
  <div>
    <h5> Tecnologias que eu utilizo no meu dia a dia: <h5>
@@ -17,6 +19,4 @@
    <img width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />                                                         
  </div>
  
- <div><br>
-  <h5>👨‍💻 Estudando JavaScript<h5>
- </div>
+ 
