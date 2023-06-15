@@ -1,4 +1,4 @@
-<h2> Olá! Eu sou o Pedro Miguel Cardoso <h2>
+<h2> Olá! Eu sou o Pedro Miguel Cardoso 👋 <h2>
 
 <div>
   <a href="https://github.com/PedroMiguelCardoso">
