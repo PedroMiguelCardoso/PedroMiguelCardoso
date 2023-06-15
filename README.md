@@ -1,16 +1,22 @@
-### Hi there 👋
+<h2> Olá! Eu sou o Pedro Miguel Cardoso <h2>
 
-<!--
-**PedroMiguelCardoso/PedroMiguelCardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/PedroMiguelCardoso">
+  <img height="170em"src="https://github-readme-stats.vercel.app/api?username=PedroMiguelCardoso&show_icons=true&theme=shadow_red"/>
+  <img height="170em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMiguelCardoso&layout=compact&langs_count=16&theme=shadow_red"/>
+</div>
+  
+  <br>
+ 
+ <div>
+   <img width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />  
+   <img width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
+   <img width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+   <img width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+   <img width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+   <img width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />                                                         
+ </div>
+ 
+ <div>
+   
+ </div>
