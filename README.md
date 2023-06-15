@@ -19,5 +19,6 @@
  <div>
    <h5>📚 Cursando ADS<h5>
    <h5>👨‍💻 Estudando JavaScript<h5>
+     <a target="_blank" href="https://pedromiguelcardoso.github.io/Portfolio-estudo-">Meu Portfolio (estudo)</a>
  </div>
  
